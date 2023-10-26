@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eduxaal
+- 👋 Hi, I’m @eduxal
 - 👀 I’m interested in learning about coding, and keep pushing forward to turn into a good developer 
-- 🌱 I’m currently learning about web developing with html, css and javascript
-- 📍 I have knowledge in php, javascript, c#, python, frameworks such as laravel and more
+- 🌱 I’m currently into the world of Software Engineering
+- 📍 I have knowledge in javascript, typescript, c#, python, frameworks such as Angular and more
 - 🎮 I’m looking to collaborate on any project that contributes to the increase of my skills 
